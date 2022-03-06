@@ -1,5 +1,4 @@
 # speech_recognition
-Application with vb.net like siri and cortana
 
   <h3 align="center">speech recognition</h3>
 
