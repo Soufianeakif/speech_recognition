@@ -1,0 +1,12 @@
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\bin\Debug\Speech_soufiane_akif.exe.config
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\bin\Debug\Speech_soufiane_akif.exe
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\bin\Debug\Speech_soufiane_akif.pdb
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\bin\Debug\Speech_soufiane_akif.xml
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\bin\Debug\Guna.UI.dll
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\obj\Debug\Speech_soufiane_akif.Form1.resources
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\obj\Debug\Speech_soufiane_akif.Resources.resources
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\obj\Debug\Speech_soufiane_akif.vbproj.GenerateResource.Cache
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\obj\Debug\Speech_soufiane_akif.exe
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\obj\Debug\Speech_soufiane_akif.xml
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\obj\Debug\Speech_soufiane_akif.pdb
+C:\Users\SOUFIANE\Desktop\Pratique\Speech_soufiane_akif\Speech_soufiane_akif\obj\Debug\Speech_soufiane_akif.vbprojResolveAssemblyReference.cache
